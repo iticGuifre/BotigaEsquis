@@ -1,6 +1,4 @@
-# BotigaEsquis
-Aquí es definirà l'empresa que ven i lloga esquís i snows.
-
+# CRYSTAL PEAK
 
 ## Classificación
 * Forma Jurídica: Sociedad Limitada
@@ -9,19 +7,14 @@ Aquí es definirà l'empresa que ven i lloga esquís i snows.
 * Sector: Secundario y Terciario
 * Actividad: Comercial y local
 
-
-## Company Name : 
-  
-  * ## "CRYSTAL PEAK"
-
 ## Company Logo:
 
 
 ## Company Location : 
   
-* ## "La Molina"
+* ### La Molina
 
-## Company Strategy
+# Company Strategy
 ## Nuestra misión :
   
   "Experiencias alpinas enriquecedoras con distinción y elegancia
@@ -111,7 +104,7 @@ nuestros clientes y socios.
   Somos genuinos y auténticos en nuestras interacciones, 
 manteniéndonos siempre fieles a nuestros valores y principios.
 
-## Áreas funcionales de una empresa
+# Áreas funcionales de una empresa
 
 1- Ventas y Marketing:
   
