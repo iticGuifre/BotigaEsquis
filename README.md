@@ -1,5 +1,16 @@
 # CRYSTAL PEAK
 
+## Índice
+1. [Clasificacion](#classificación)
+2. [Logo](#company-logo)
+3. [Mision](#nuestra-misión)
+4. [Vision](#nuestra-visión)
+5. [Valores](#nuestros-valores-incluyen)
+6. [Areas funcionales](#áreas-funcionales-de-una-empresa)
+7. [Necesidades](#necesidades)
+8. [Clientes](#clientes)
+9. [Empleados](#empleados)
+
 ## Classificación
 * Forma Jurídica: Sociedad Limitada
 * Tamaño: Microempresa. Ya que estará  a Molina.
