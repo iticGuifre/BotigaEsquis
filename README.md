@@ -4,14 +4,11 @@ Aquí es definirà l'empresa que ven i lloga esquís i snows.
 
 ## Classificación
 * Forma Jurídica: Sociedad Limitada
-* Tamaño: Microempresa. Ya que estará  a Espot, un pueblo pequeño donde hay
- 
-* 
-* 
-* 
-* 
-* 
-* 
+* Tamaño: Microempresa. Ya que estará  a Molina.
+* Capital: Privado
+* Sector: Secundario y Terciario
+* Actividad: Comercial y local
+
 
 ## Company Name : 
   
@@ -219,3 +216,12 @@ pruebas de equipos y mejoras para seguir siendo competitivos.
   Este departamento garantiza la seguridad de nuestros clientes y 
 empleados, abordando los riesgos potenciales asociados con el 
 esquí y nuestras operaciones comerciales.
+
+# Necesidades
+* Estar cerca de zonas donde se hacen deportes de nieve. Necesitamos un sistema de control de fortfaits.
+
+* Tener control del stock variado para asegurar satisfacer las necesidades de los clientes.
+
+* Tener un sistema que registre los alquileres, las compras, el mantenimiento, clientes, trabajadores.
+
+* Una página web en la que se gestionan las compras online y el transporte.
