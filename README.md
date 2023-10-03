@@ -9,6 +9,7 @@
 
 ## Company Logo:
 
+<img title="Crystal Peak" alt="logo" src="skier-vector.png" style="width: 200px; height: 200px">
 
 ## Company Location : 
   
@@ -45,75 +46,75 @@ sofisticación atemporal y exploración ilimitada".
 
 ## Nuestros Valores incluyen:
 
-1- Elegancia:
+**1- Elegancia:**
   
   Adoptamos y encarnamos la sofisticación en todos los aspectos 
 de nuestro negocio, desde los productos que ofrecemos hasta las 
 experiencias que seleccionamos.
 
-2- Excelencia:
+**2- Excelencia:**
   
   Estamos comprometidos a ofrecer productos y servicios de la más 
 alta calidad, esforzándonos siempre por la excelencia en todo 
 lo que hacemos.
 
-3- Aventura:
+**3- Aventura:**
   
   Fomentamos un espíritu de aventura, animando a nuestros 
 clientes a explorar los paisajes alpinos más impresionantes del 
 mundo con confianza y emoción.
 
-4- Innovación:
+**4- Innovación:**
   
   Innovamos continuamente para brindarles a nuestros clientes los 
 últimos avances en equipos y equipos de esquí, asegurando que 
 tengan acceso a las mejores herramientas para sus aventuras.
 
-5- Sostenibilidad:
+**5- Sostenibilidad:**
   
   Estamos dedicados a preservar la belleza natural de nuestros 
 entornos alpinos y nos esforzamos por tomar decisiones 
 ecológicas en nuestras operaciones y ofertas de productos.
 
-6- Experiencia:
+**6- Experiencia:**
   
   Nuestro equipo está formado por expertos que brindan 
 información y orientación valiosas a nuestros clientes, 
 garantizando que tengan la mejor experiencia de esquí posible.
 
-7- Centrado en el cliente:
+**7- Centrado en el cliente:**
   
   Priorizamos las necesidades y la satisfacción de nuestros 
 clientes, yendo más allá para satisfacer sus expectativas y 
 crear relaciones duraderas.
 
-8- Legado:
+**8- Legado:**
   
   Estamos construyendo un legado de elegancia y distinción en la 
 industria del esquí, dejando una marca de sofisticación 
 duradera para las generaciones venideras.
 
-9- Comunidad:
+**9- Comunidad:**
   
   Apoyamos y nos involucramos con la comunidad del esquí, 
 fomentando un sentido de pertenencia y pasión compartida entre 
 nuestros clientes y socios.
 
-10- Autenticidad:
+**10- Autenticidad:**
   
   Somos genuinos y auténticos en nuestras interacciones, 
 manteniéndonos siempre fieles a nuestros valores y principios.
 
 # Áreas funcionales de una empresa
 
-1- Ventas y Marketing:
+**1- Ventas y Marketing:**
   
   Este departamento se centra en promocionar nuestros productos y 
 servicios para atraer clientes.Las responsabilidades incluyen 
 publicidad, marketing en redes sociales, campañas de correo 
 electrónico y estrategias de ventas.
 
-2- Gestión de Producto:
+**2- Gestión de Producto:**
   
   Este equipo es responsable de seleccionar y administrar nuestro 
 inventario de productos, incluidos esquís, equipos de 
@@ -121,14 +122,14 @@ snowboard, ropa y accesorios.
   Supervisan el rendimiento del producto, los precios y los 
 niveles de existencias.
 
-3- Servicio al Cliente:
+**3- Servicio al Cliente:**
   
   El departamento de atención al cliente atiende consultas, 
 resuelve problemas y garantiza la satisfacción del cliente.
 También pueden gestionar reservas de alquiler, devoluciones y 
 comentarios de los clientes.
 
-4- Operaciones y Gestión de Inventario:
+**4- Operaciones y Gestión de Inventario:**
   
   Esta área supervisa las operaciones diarias de nuestra tienda 
 física, asegurando que los productos estén disponibles y 
@@ -136,7 +137,7 @@ organizados para los clientes.
 También gestiona los niveles de inventario, la reposición y las 
 relaciones con los proveedores.
 
-5- Comercio electrónico y gestión de sitios web:
+**5- Comercio electrónico y gestión de sitios web:**
   
   En caso de que tengamos presencia en línea, este equipo maneja 
 nuestro sitio web de comercio electrónico, garantizando que sea 
@@ -144,67 +145,67 @@ fácil de usar, seguro y actualizado.
 Gestionan las ventas online, las reservas y los datos de los 
 clientes.
 
-6- Finanzas y Contabilidad:
+**6- Finanzas y Contabilidad:**
   
   El departamento de finanzas gestiona las transacciones 
 financieras, la elaboración de presupuestos y los informes 
 financieros.
 Manejan la nómina, las cuentas por pagar y las cuentas por cobrar.
 
-7- Recursos Humanos:
+**7- Recursos Humanos:**
   
   RR.HH. es responsable de contratar, capacitar y gestionar a los 
 empleados.
 También abordan cuestiones de personal, cumplimiento y políticas 
 laborales.
 
-8- Sostenibilidad y Gestión Ambiental:
+**8- Sostenibilidad y Gestión Ambiental:**
   
   Este departamento se enfoca en implementar prácticas ecológicas 
 en nuestras operaciones comerciales.
 Pueden trabajar para reducir el impacto ambiental y obtener 
 productos sostenibles.
 
-9- Asociaciones y relaciones con proveedores:
+**9- Asociaciones y relaciones con proveedores:**
   
   Esta área gestiona las relaciones con proveedores, estaciones 
 de esquí y otros socios.
 Negocian contratos y colaboraciones que benefician a nuestro 
 negocio.
 
-10- TI y Tecnología:
+**10- TI y Tecnología:**
   
   Los profesionales de TI mantienen y solucionan problemas de 
 nuestros sistemas informáticos, redes y software.
 Garantizan que nuestra infraestructura tecnológica respalde 
 nuestras necesidades comerciales.
 
-11- Legal y Cumplimiento:
+**11- Legal y Cumplimiento:**
   
   Esta función garantiza que nuestro negocio opere dentro de los 
 límites legales.
 Puede manejar contratos, permisos, licencias y cumplimiento 
 normativo.
 
-12- Análisis de marketing y gestión de datos:
+**12- Análisis de marketing y gestión de datos:**
   
   Este equipo analiza los datos de los clientes y las tendencias 
 del mercado para tomar decisiones de marketing basadas en datos.
 También pueden manejar bases de datos de clientes y cuestiones de 
 privacidad.
 
-13- Gestión de Instalaciones:
+**13- Gestión de Instalaciones:**
   
   En caso de que tengamos tiendas físicas, este departamento es 
 responsable del mantenimiento y administración de las 
 instalaciones, incluyendo conservación, seguridad y protección.
 
-14- Investigación y Desarrollo:
+**14- Investigación y Desarrollo:**
   
   Esta área se centra en la innovación en el diseño de productos, 
 pruebas de equipos y mejoras para seguir siendo competitivos.
 
-15- Gestión de Riesgos y Seguridad:
+**15- Gestión de Riesgos y Seguridad:**
   
   Este departamento garantiza la seguridad de nuestros clientes y 
 empleados, abordando los riesgos potenciales asociados con el 
@@ -218,3 +219,24 @@ esquí y nuestras operaciones comerciales.
 * Tener un sistema que registre los alquileres, las compras, el mantenimiento, clientes, trabajadores.
 
 * Una página web en la que se gestionan las compras online y el transporte.
+
+# Clientes
+El perfil de nuestros clientes se basa en la practica de actividadwes **de montaña**, sobretodo en el **esquí** y el **snowboard**, aunque también nos enfocamos en vender productos para **alpinistas**.
+
+Aunque somos un negocio **estacional**, también vendemos productos variados durante todo el año. Nos interesa crear un **vínculo** estrecho con el cliente con el fin de mantenerlo a través de las temporadas, pero también queremos atraer a los clientes casuales.
+
+Esto comporta disponer de un sistema de marketing **cercano** y **personalizado**, que nos ayude a conseguir este objetivo.
+
+Requerimos un sistema que permita a nuestros usuarios crear y manejar cuentas en la nube, de manera que puedan visualizar los productes i serveis contratados, así como para poder personalizar mejor las posibles promociones.
+
+Finalmente, necesitamos un programario que nos permita **gestionar el material** que los clientes alquilan, como son botas, palos o esquis.
+
+# Empleados
+Somos una **empresa pequeña**, así que no disponemos de muchos empleados. Solemos disponer de **4 personas**, las cuales desenpeñan sus respectivas funciones:
+* **Supervisor/a:** Se encarga de organizar las tareas de los empleados, además de encargarse de la organización de la tienda (calidad de servicios, venta de productos, imagen del local...)  
+
+* **Encargado/a de logística:** Se encarga la disponibilidad de productos, gestiona la compra-venta de material, contacta con los proveedores y supervisa los envíos.  
+
+* **Encargado/a de finanzas:** Realiza la contabilidad de la empresa, comprueba las cuentas de la caja registradora y realiza informes sobre el balance mensual.  
+
+* **Dependiente/a:** Repone productos de los estantes, cobra a los clientes, mantiene limpio el local y se encarga de la opertura y el cierre de la tienda.
