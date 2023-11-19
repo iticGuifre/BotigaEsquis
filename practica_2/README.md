@@ -123,3 +123,47 @@ Seguidamente se muestran las diferentes partes del backlog:
   * NOTICIAS
 
 ![8](AF8.png)
+
+  ## Odoo
+  ### Main
+  ![](main1.png)
+  ![](main2.png)
+  ![](main3.png)
+
+  ### Login
+  ![](login.png)
+
+  ### Blog
+  ![](blog1.png)
+  ![](blog2.png)
+  ![](blog3.png)
+
+  ### Contacto
+  ![](contact.png)
+
+  ### Blog
+  ![](blog1.png)
+  ![](blog2.png)
+  ![](blog3.png)
+
+  ### Informes
+  ![](informes1.png)
+  ![](informes2.png)
+  ![](informes3.png)
+
+  ### Informes
+  ![](informes1.png)
+  ![](informes2.png)
+  ![](informes3.png)
+
+  ### Citas
+  ![](citas.png)
+
+  ### Medicinas
+  ![](medicinas.png)
+
+  ### Vacunas
+  ![](vacunas.png)
+
+  ### Footer
+  ![](footer.png)
